@@ -21,8 +21,6 @@
   </a>
 </p>
 
-> webpack url loader
-
 ### 🏠 [BLOG](https://shudong.wang)
 
 ### ✨ [Demo](https://shudong.wang)
