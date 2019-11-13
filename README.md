@@ -23,7 +23,7 @@
 
 ### 🏠 [BLOG](https://shudong.wang)
 
-### ✨ [Demo](https://shudong.wang)
+### 🏠 [项目地址](https://github.com/webpack-guide/webpack-build-your-loader-base)
 
 ## Install
 
