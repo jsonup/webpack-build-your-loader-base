@@ -51,6 +51,10 @@ Give a ⭐️ if this project helped you!
 ## 项目介绍
 构建自己的webpack loader
 
+## 参考
+
+https://webpack.js.org/api/loaders/
+
 #### 编写loader
 > ./loader/starkLoader.js
 ```js
