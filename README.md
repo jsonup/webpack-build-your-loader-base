@@ -35,7 +35,7 @@ yarn
 
 👤 **starkwang**
 
-* Website: https://shudong.wang
+* Blog: https://shudong.wang
 * Twitter: [@wsd312](https://twitter.com/wsd312)
 * Github: [@wsdo](https://github.com/wsdo)
 * segmentfault: [@shudong](https://segmentfault.com/blog/shudong)
