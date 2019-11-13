@@ -91,6 +91,9 @@ npm run build
 ```
 
 > dist/main.js 里面的 starkwang 变成了 shudong
+
 ![2019-11-13-16-50-49](http://s.shudong.wang/2019-11-13-16-50-49.png)
-变成 
+
+> 变成 
+
 ![2019-11-13-16-50-34](http://s.shudong.wang/2019-11-13-16-50-34.png)
